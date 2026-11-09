@@ -41,3 +41,5 @@ Run:
 
 Do not commit credentials, secrets, internal company
 information, production logs, or sensitive configuration.
+
+Write-Host "Version 1.1 - Updated successfully."
