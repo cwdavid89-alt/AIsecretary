@@ -1,0 +1,22 @@
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local configuration and environment files
+.env
+.env.*
+*.local.json
+
+# Credentials and keys
+*.pfx
+*.p12
+*.key
+*.pem
+*credential*
+*secret*
+
+# Editor files
+.vscode/
+.idea/
